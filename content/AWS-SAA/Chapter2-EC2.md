@@ -1,7 +1,3 @@
-# Chapter2_EC2
-
-# Chapter 2. EC2
-
 ## 인스턴스 타입
 
 ```

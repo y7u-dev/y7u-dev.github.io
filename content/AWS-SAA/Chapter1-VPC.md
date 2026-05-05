@@ -1,7 +1,3 @@
-# Chapter1_VPC
-
-# Chapter 1. VPC
-
 ## 왜 VPC가 필요한가
 
 AWS는 수백만 고객이 같은 물리 서버를 공유한다. VPC(Virtual Private Cloud)는 AWS 위에 나만의 가상 네트워크를 만드는 것으로, 다른 고객과 완전히 격리된 환경을 제공한다.

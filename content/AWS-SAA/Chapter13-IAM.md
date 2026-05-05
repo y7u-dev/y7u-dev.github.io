@@ -1,7 +1,3 @@
-# Chapter13_IAM
-
-# Chapter 13. IAM
-
 ## 구성 요소
 
 | 요소 | 역할 |

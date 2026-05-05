@@ -1,7 +1,3 @@
-# Chapter5_Route53_CloudFront
-
-# Chapter 5. Route 53 + CloudFront
-
 ## Route 53 라우팅 정책
 
 | 정책 | 동작 | 용도 |

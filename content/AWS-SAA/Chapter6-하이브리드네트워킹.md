@@ -1,7 +1,3 @@
-# Chapter6_하이브리드_네트워킹
-
-# Chapter 6. 하이브리드 네트워킹
-
 ## Site-to-Site VPN
 
 온프레미스 ↔︎ AWS 간 인터넷 위에 IPSec 암호화 터널.

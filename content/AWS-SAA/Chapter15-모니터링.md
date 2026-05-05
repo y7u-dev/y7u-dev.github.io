@@ -1,7 +1,3 @@
-# Chapter15_모니터링_운영
-
-# Chapter 15. 모니터링 / 운영
-
 ## CloudWatch
 
 | 기능 | 설명 |

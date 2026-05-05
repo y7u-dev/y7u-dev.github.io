@@ -1,7 +1,3 @@
-# Chapter8_Kinesis
-
-# Chapter 8. Kinesis
-
 ## SQS와 근본적 차이
 
 | 구분 | SQS | Kinesis |

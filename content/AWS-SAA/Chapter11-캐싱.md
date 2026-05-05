@@ -1,7 +1,3 @@
-# Chapter11_캐싱
-
-# Chapter 11. 캐싱 전략
-
 ## ElastiCache
 
 | 구분 | Redis | Memcached |

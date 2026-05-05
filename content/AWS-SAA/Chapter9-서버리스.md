@@ -1,7 +1,3 @@
-# Chapter9_서버리스
-
-# Chapter 9. 서버리스 (Lambda / API Gateway)
-
 ## Lambda
 
 이벤트 발생 시 코드 실행, 사용한 만큼만 비용 청구.

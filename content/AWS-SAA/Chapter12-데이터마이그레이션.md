@@ -1,7 +1,3 @@
-# Chapter12_데이터_마이그레이션
-
-# Chapter 12. 데이터 마이그레이션
-
 ## DMS (Database Migration Service)
 
 **무중단 마이그레이션:**
